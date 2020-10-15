@@ -1,0 +1,1 @@
+worker: python gdriveBot.py
